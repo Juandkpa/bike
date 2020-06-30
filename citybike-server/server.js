@@ -46,6 +46,3 @@ async function init() {
 init();
 
 server.listen(port, () => console.log(`Listening on port ${port}`));
-
-
-
