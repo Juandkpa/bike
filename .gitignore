@@ -1,6 +1,4 @@
-citybike-client/node_modules/
-citybike-server/node_modules/
-
+node_modules
 /.pnp
 .pnp.js
 
